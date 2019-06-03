@@ -52,7 +52,7 @@ text-align: center;
     padding: 10px;
 }
 [class*="col-"] img{
- box-shadow: 0 0 4px #e0d7d7;
+ box-shadow: var(--box);
  border-radius: 50%;
 }
 @media(max-width: 900px){

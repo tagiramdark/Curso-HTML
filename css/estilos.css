@@ -140,3 +140,16 @@ footer{
 .pie_mail a{
     color: var(--green-color);
 }
+/*Venta*/
+.modulo_pago{
+    background-color: var(--white-color);
+    box-shadow: var(--box);
+    padding: -var(--space);
+}
+.modulo_pago_img{
+    max-width: 150px;
+    text-align: center;
+    width: 100%;
+    margin: auto;
+   
+}
