@@ -1,0 +1,27 @@
+
+.fadeIn{
+    -webkit-animation-duration: 4s;
+    animation-duration: 4s;
+    animation-fill-mode: both;
+    -webkit-animation-fill-mode: both;
+    -webkit-animation-name: fadeIn;
+    animation-name: fadeIn;
+  }
+  .fadeInDown{
+    -webkit-animation-duration: 1s;
+    animation-duration: 1s;
+    animation-fill-mode: both;
+    -webkit-animation-fill-mode: both;
+    -webkit-animation-name: fadeInDown;
+    animation-name: fadeInDown;
+  }
+  
+.fadeInUp{
+    -webkit-animation-duration: 1s;
+    animation-duration: 1s;
+    animation-fill-mode: both;
+    -webkit-animation-fill-mode: both;
+    -webkit-animation-name: fadeInUp;
+    animation-name: fadeInUp;
+  }
+  
